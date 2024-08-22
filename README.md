@@ -1,2 +1,2 @@
-## Machine Learning Projects
-In this folder i have uploaded all the projects i have done on the machine learning using the sklearn module
+## Predicting the Sale of Bulldozers 🚜 using Machine Learnin
+In this notebook, we're going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
